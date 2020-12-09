@@ -1,6 +1,15 @@
 # commentsold api
 ______
 
+## Running the server
+
+* Clone the repo then run the following commands
+
+`cd api/`
+`go run *.go`
+
+## Querying the server with curl stubs
+
 * Signin with the following (no other username or password will be accepted)
 
 `curl --location --request GET 'http://localhost:3000/api/signin' \

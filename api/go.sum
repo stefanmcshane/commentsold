@@ -6,6 +6,10 @@ github.com/gocarina/gocsv v0.0.0-20201208093247-67c824bc04d4/go.mod h1:5YoVOkjYA
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/sirupsen/logrus v1.7.0 h1:ShrD1U9pZB12TX0cVy0DtePoCH97K8EtX+mg7ZARUtM=
 github.com/sirupsen/logrus v1.7.0/go.mod h1:yWOB1SBYBC5VeMP7gHvWumXLIWorT60ONWic61uBYv0=
+github.com/stefanmcshane/commentsold/auth v0.0.2 h1:6/YYEY2yzHH5ZsKzVkfFvoluD6jBODHxTiiayir1uBQ=
+github.com/stefanmcshane/commentsold/auth v0.0.2/go.mod h1:aGNIIaE6F3Yrcm91/TmjOt9oUJbBP1AQOe/66riXUMU=
+github.com/stefanmcshane/commentsold/db v0.0.2 h1:Dz9UQqvk9DUsYNgvCaa0fqv6RIGzjrtY+si1EhMWwbk=
+github.com/stefanmcshane/commentsold/db v0.0.2/go.mod h1:zm9XqhqtEkxk4y2WG6DbWidET13GW0VVp0g2fnG4kv0=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 h1:YyJpGZS1sBuBCzLAR1VEpK193GlqGZbnPFnPV/5Rsb4=
 golang.org/x/sys v0.0.0-20191026070338-33540a1f6037/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
